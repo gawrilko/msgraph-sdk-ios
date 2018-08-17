@@ -13,5 +13,10 @@
 #import "MSGraphClient+DefaultConfiguration.h"
 #import "MSGraphClientConfiguration+DefaultConfiguration.h"
 #import "MSBlockAuthenticationProvider.h"
+#import "NSArray+MSSerialization.h"
+#import "MSFunctionParameters.h"
+#import "MSNSURLSessionTaskDelegate.h"
+#import "MSURLSessionTask+Protected.h"
+#import "MSGraphSDKVersion.h"
 
 #endif
