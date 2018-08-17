@@ -834,7 +834,7 @@
 		7C70EB6C1C877856008A0C07 /* NSDate+MSSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8A61C877855008A0C07 /* NSDate+MSSerialization.m */; };
 		7C70EB6D1C877856008A0C07 /* NSJSONSerialization+ResponseHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A71C877855008A0C07 /* NSJSONSerialization+ResponseHelper.h */; };
 		7C70EB6E1C877856008A0C07 /* NSJSONSerialization+ResponseHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8A81C877855008A0C07 /* NSJSONSerialization+ResponseHelper.m */; };
-		7C70EDF61C8E1D26008A0C07 /* MSGraphCoreSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70EDF51C8E1D26008A0C07 /* MSGraphCoreSDK.h */; };
+		7C70EDF61C8E1D26008A0C07 /* MSGraphCoreSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70EDF51C8E1D26008A0C07 /* MSGraphCoreSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EE4E1C90DE73008A0C07 /* MSBlockAuthenticationProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70EE4C1C90DE73008A0C07 /* MSBlockAuthenticationProvider.h */; };
 		7C70EE4F1C90DE73008A0C07 /* MSBlockAuthenticationProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70EE4D1C90DE73008A0C07 /* MSBlockAuthenticationProvider.m */; };
 /* End PBXBuildFile section */
@@ -2672,6 +2672,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C70EDF61C8E1D26008A0C07 /* MSGraphCoreSDK.h in Headers */,
 				7C70E8531C877763008A0C07 /* MSURLSessionManager.h in Headers */,
 				7C6F5BEE1CB33B8B00EDF1C9 /* MSGraphThumbnailRequestBuilder.h in Headers */,
 				7C6F5C2A1CB33B8B00EDF1C9 /* MSGraphUserMemberOfCollectionReferencesRequestBuilder.h in Headers */,
@@ -2967,7 +2968,6 @@
 				7C6F5BCE1CB33B8B00EDF1C9 /* MSGraphPostAttachmentsCollectionRequestBuilder.h in Headers */,
 				7C6F5C481CB33B8B00EDF1C9 /* MSGraphUserRegisteredDevicesCollectionReferencesRequest.h in Headers */,
 				7C6F5BBF1CB33B8B00EDF1C9 /* MSGraphODataEntities.h in Headers */,
-				7C70EDF61C8E1D26008A0C07 /* MSGraphCoreSDK.h in Headers */,
 				7C6F5C541CB33B8B00EDF1C9 /* MSGraphUserRequest.h in Headers */,
 				7C6F5A951CB33B8B00EDF1C9 /* MSGraphDirectoryObjectRequest.h in Headers */,
 				7C6F57751CB33B8100EDF1C9 /* MSGraphDateTimeTimeZone.h in Headers */,
