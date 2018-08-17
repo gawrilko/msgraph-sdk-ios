@@ -775,7 +775,7 @@
 		7C70E8501C877763008A0C07 /* MSLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8471C877763008A0C07 /* MSLogger.m */; };
 		7C70E8511C877763008A0C07 /* MSNSURLSessionTaskDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8491C877763008A0C07 /* MSNSURLSessionTaskDelegate.h */; };
 		7C70E8521C877763008A0C07 /* MSNSURLSessionTaskDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E84A1C877763008A0C07 /* MSNSURLSessionTaskDelegate.m */; };
-		7C70E8531C877763008A0C07 /* MSURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E84B1C877763008A0C07 /* MSURLSessionManager.h */; };
+		7C70E8531C877763008A0C07 /* MSURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E84B1C877763008A0C07 /* MSURLSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70E8541C877763008A0C07 /* MSURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E84C1C877763008A0C07 /* MSURLSessionManager.m */; };
 		7C70E8561C877797008A0C07 /* MSGraphSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8551C877797008A0C07 /* MSGraphSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70E85E1C877818008A0C07 /* NSError+MSGraphSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E85A1C877818008A0C07 /* NSError+MSGraphSDK.h */; };
@@ -2672,6 +2672,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C70E8531C877763008A0C07 /* MSURLSessionManager.h in Headers */,
 				7C6F5BEE1CB33B8B00EDF1C9 /* MSGraphThumbnailRequestBuilder.h in Headers */,
 				7C6F5C2A1CB33B8B00EDF1C9 /* MSGraphUserMemberOfCollectionReferencesRequestBuilder.h in Headers */,
 				7C6F5B751CB33B8B00EDF1C9 /* MSGraphGroupThreadsCollectionRequestBuilder.h in Headers */,
@@ -2928,7 +2929,6 @@
 				7C6F5BF81CB33B8B00EDF1C9 /* MSGraphUserCalendarGroupsCollectionRequest.h in Headers */,
 				7C6F5A911CB33B8B00EDF1C9 /* MSGraphDirectoryObjectReferenceRequest.h in Headers */,
 				7C6F5B7D1CB33B8B00EDF1C9 /* MSGraphItemAttachmentRequestBuilder.h in Headers */,
-				7C70E8531C877763008A0C07 /* MSURLSessionManager.h in Headers */,
 				7C6F57911CB33B8100EDF1C9 /* MSGraphEventType.h in Headers */,
 				7C6F57AB1CB33B8100EDF1C9 /* MSGraphItemAttachment.h in Headers */,
 				7C6F5C521CB33B8B00EDF1C9 /* MSGraphUserReminderViewRequestBuilder.h in Headers */,
