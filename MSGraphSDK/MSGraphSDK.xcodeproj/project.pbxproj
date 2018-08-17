@@ -9,28 +9,28 @@
 /* Begin PBXBuildFile section */
 		7C12E5B61CA3469400328A79 /* MSGraphSDKVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C12E5B41CA3469400328A79 /* MSGraphSDKVersion.h */; };
 		7C12E5B71CA3469400328A79 /* MSGraphSDKVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C12E5B51CA3469400328A79 /* MSGraphSDKVersion.m */; };
-		7C4C198B1CAAF1E000FBDFFD /* MSGraphClientConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19891CAAF1E000FBDFFD /* MSGraphClientConfiguration.h */; };
+		7C4C198B1CAAF1E000FBDFFD /* MSGraphClientConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19891CAAF1E000FBDFFD /* MSGraphClientConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C4C198C1CAAF1E000FBDFFD /* MSGraphClientConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C198A1CAAF1E000FBDFFD /* MSGraphClientConfiguration.m */; };
-		7C4C199F1CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19921CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.h */; };
+		7C4C199F1CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19921CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C4C19A01CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19931CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.m */; };
-		7C4C19A11CAAF77B00FBDFFD /* MSURLSessionDataTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19941CAAF77B00FBDFFD /* MSURLSessionDataTask.h */; };
+		7C4C19A11CAAF77B00FBDFFD /* MSURLSessionDataTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19941CAAF77B00FBDFFD /* MSURLSessionDataTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C4C19A21CAAF77B00FBDFFD /* MSURLSessionDataTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19951CAAF77B00FBDFFD /* MSURLSessionDataTask.m */; };
-		7C4C19A31CAAF77B00FBDFFD /* MSURLSessionDownloadTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19961CAAF77B00FBDFFD /* MSURLSessionDownloadTask.h */; };
+		7C4C19A31CAAF77B00FBDFFD /* MSURLSessionDownloadTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19961CAAF77B00FBDFFD /* MSURLSessionDownloadTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C4C19A41CAAF77B00FBDFFD /* MSURLSessionDownloadTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19971CAAF77B00FBDFFD /* MSURLSessionDownloadTask.m */; };
 		7C4C19A51CAAF77B00FBDFFD /* MSURLSessionProgressTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19981CAAF77B00FBDFFD /* MSURLSessionProgressTask.h */; };
 		7C4C19A61CAAF77B00FBDFFD /* MSURLSessionProgressTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19991CAAF77B00FBDFFD /* MSURLSessionProgressTask.m */; };
 		7C4C19A71CAAF77B00FBDFFD /* MSURLSessionTask+Protected.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C199A1CAAF77B00FBDFFD /* MSURLSessionTask+Protected.h */; };
 		7C4C19A81CAAF77B00FBDFFD /* MSURLSessionTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C199B1CAAF77B00FBDFFD /* MSURLSessionTask.h */; };
 		7C4C19A91CAAF77B00FBDFFD /* MSURLSessionTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C199C1CAAF77B00FBDFFD /* MSURLSessionTask.m */; };
-		7C4C19AA1CAAF77B00FBDFFD /* MSURLSessionUploadTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C199D1CAAF77B00FBDFFD /* MSURLSessionUploadTask.h */; };
+		7C4C19AA1CAAF77B00FBDFFD /* MSURLSessionUploadTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C199D1CAAF77B00FBDFFD /* MSURLSessionUploadTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C4C19AB1CAAF77B00FBDFFD /* MSURLSessionUploadTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C199E1CAAF77B00FBDFFD /* MSURLSessionUploadTask.m */; };
 		7C4C19B01CAAF90300FBDFFD /* MSGraphClient+DefaultConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19AC1CAAF90300FBDFFD /* MSGraphClient+DefaultConfiguration.h */; };
 		7C4C19B11CAAF90300FBDFFD /* MSGraphClient+DefaultConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19AD1CAAF90300FBDFFD /* MSGraphClient+DefaultConfiguration.m */; };
 		7C4C19B21CAAF90300FBDFFD /* MSGraphClientConfiguration+DefaultConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19AE1CAAF90300FBDFFD /* MSGraphClientConfiguration+DefaultConfiguration.h */; };
 		7C4C19B31CAAF90300FBDFFD /* MSGraphClientConfiguration+DefaultConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19AF1CAAF90300FBDFFD /* MSGraphClientConfiguration+DefaultConfiguration.m */; };
-		7C4C19B61CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19B41CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.h */; };
+		7C4C19B61CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19B41CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C4C19B71CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19B51CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.m */; };
-		7C4C19BE1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19BC1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.h */; };
+		7C4C19BE1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C4C19BC1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C4C19BF1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4C19BD1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.m */; };
 		7C6F56A51CADDF1500EDF1C9 /* NSArray+MSSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F56A31CADDF1500EDF1C9 /* NSArray+MSSerialization.h */; };
 		7C6F56A61CADDF1500EDF1C9 /* NSArray+MSSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6F56A41CADDF1500EDF1C9 /* NSArray+MSSerialization.m */; };
@@ -134,7 +134,7 @@
 		7C6F57B81CB33B8100EDF1C9 /* MSGraphMeetingMessageType.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6F57091CB33B8100EDF1C9 /* MSGraphMeetingMessageType.m */; };
 		7C6F57B91CB33B8100EDF1C9 /* MSGraphMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F570A1CB33B8100EDF1C9 /* MSGraphMessage.h */; };
 		7C6F57BA1CB33B8100EDF1C9 /* MSGraphMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6F570B1CB33B8100EDF1C9 /* MSGraphMessage.m */; };
-		7C6F57BB1CB33B8100EDF1C9 /* MSGraphModels.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F570C1CB33B8100EDF1C9 /* MSGraphModels.h */; };
+		7C6F57BB1CB33B8100EDF1C9 /* MSGraphModels.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F570C1CB33B8100EDF1C9 /* MSGraphModels.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C6F57BC1CB33B8100EDF1C9 /* MSGraphOrganization.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F570D1CB33B8100EDF1C9 /* MSGraphOrganization.h */; };
 		7C6F57BD1CB33B8100EDF1C9 /* MSGraphOrganization.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6F570E1CB33B8100EDF1C9 /* MSGraphOrganization.m */; };
 		7C6F57BE1CB33B8100EDF1C9 /* MSGraphOutlookItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F570F1CB33B8100EDF1C9 /* MSGraphOutlookItem.h */; };
@@ -605,7 +605,7 @@
 		7C6F5BBC1CB33B8B00EDF1C9 /* MSGraphMessageSendRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6F598F1CB33B8A00EDF1C9 /* MSGraphMessageSendRequest.m */; };
 		7C6F5BBD1CB33B8B00EDF1C9 /* MSGraphMessageSendRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F59901CB33B8A00EDF1C9 /* MSGraphMessageSendRequestBuilder.h */; };
 		7C6F5BBE1CB33B8B00EDF1C9 /* MSGraphMessageSendRequestBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6F59911CB33B8A00EDF1C9 /* MSGraphMessageSendRequestBuilder.m */; };
-		7C6F5BBF1CB33B8B00EDF1C9 /* MSGraphODataEntities.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F59921CB33B8A00EDF1C9 /* MSGraphODataEntities.h */; };
+		7C6F5BBF1CB33B8B00EDF1C9 /* MSGraphODataEntities.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F59921CB33B8A00EDF1C9 /* MSGraphODataEntities.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C6F5BC01CB33B8B00EDF1C9 /* MSGraphOrganizationRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F59931CB33B8A00EDF1C9 /* MSGraphOrganizationRequest.h */; };
 		7C6F5BC11CB33B8B00EDF1C9 /* MSGraphOrganizationRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6F59941CB33B8A00EDF1C9 /* MSGraphOrganizationRequest.m */; };
 		7C6F5BC21CB33B8B00EDF1C9 /* MSGraphOrganizationRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6F59951CB33B8A00EDF1C9 /* MSGraphOrganizationRequestBuilder.h */; };
@@ -786,7 +786,7 @@
 		7C70EB2F1C877856008A0C07 /* MSCollectionRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8651C877855008A0C07 /* MSCollectionRequest.m */; };
 		7C70EB301C877856008A0C07 /* MSCollectionRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8661C877855008A0C07 /* MSCollectionRequestBuilder.h */; };
 		7C70EB311C877856008A0C07 /* MSCollectionRequestBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8671C877855008A0C07 /* MSCollectionRequestBuilder.m */; };
-		7C70EB321C877856008A0C07 /* MSConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8681C877855008A0C07 /* MSConstants.h */; };
+		7C70EB321C877856008A0C07 /* MSConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8681C877855008A0C07 /* MSConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB331C877856008A0C07 /* MSConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8691C877855008A0C07 /* MSConstants.m */; };
 		7C70EB341C877856008A0C07 /* MSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E86A1C877855008A0C07 /* MSObject.h */; };
 		7C70EB351C877856008A0C07 /* MSObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E86B1C877855008A0C07 /* MSObject.m */; };
@@ -814,25 +814,25 @@
 		7C70EB581C877856008A0C07 /* MSQueryParameters.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8901C877855008A0C07 /* MSQueryParameters.m */; };
 		7C70EB591C877856008A0C07 /* MSRequestOptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8911C877855008A0C07 /* MSRequestOptions.h */; };
 		7C70EB5A1C877856008A0C07 /* MSRequestOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8921C877855008A0C07 /* MSRequestOptions.m */; };
-		7C70EB5B1C877856008A0C07 /* MSRequestOptionsBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8931C877855008A0C07 /* MSRequestOptionsBuilder.h */; };
+		7C70EB5B1C877856008A0C07 /* MSRequestOptionsBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8931C877855008A0C07 /* MSRequestOptionsBuilder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB5C1C877856008A0C07 /* MSRequestOptionsBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8941C877855008A0C07 /* MSRequestOptionsBuilder.m */; };
 		7C70EB5D1C877856008A0C07 /* MSSelectOptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8951C877855008A0C07 /* MSSelectOptions.h */; };
 		7C70EB5E1C877856008A0C07 /* MSSelectOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8961C877855008A0C07 /* MSSelectOptions.m */; };
 		7C70EB5F1C877856008A0C07 /* MSTopOptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8971C877855008A0C07 /* MSTopOptions.h */; };
 		7C70EB601C877856008A0C07 /* MSTopOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8981C877855008A0C07 /* MSTopOptions.m */; };
-		7C70EB611C877856008A0C07 /* MSError.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E89A1C877855008A0C07 /* MSError.h */; };
+		7C70EB611C877856008A0C07 /* MSError.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E89A1C877855008A0C07 /* MSError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB621C877856008A0C07 /* MSError.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E89B1C877855008A0C07 /* MSError.m */; };
 		7C70EB631C877856008A0C07 /* MSErrorCodes.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E89C1C877855008A0C07 /* MSErrorCodes.h */; };
 		7C70EB641C877856008A0C07 /* MSErrorCodes.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E89D1C877855008A0C07 /* MSErrorCodes.m */; };
-		7C70EB651C877856008A0C07 /* MSGraphClient+Base.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E89F1C877855008A0C07 /* MSGraphClient+Base.h */; };
+		7C70EB651C877856008A0C07 /* MSGraphClient+Base.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E89F1C877855008A0C07 /* MSGraphClient+Base.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB661C877856008A0C07 /* MSGraphClient+Base.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8A01C877855008A0C07 /* MSGraphClient+Base.m */; };
-		7C70EB671C877856008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A11C877855008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.h */; };
+		7C70EB671C877856008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A11C877855008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB681C877856008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8A21C877855008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.m */; };
-		7C70EB691C877856008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A31C877855008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.h */; };
+		7C70EB691C877856008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A31C877855008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB6A1C877856008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8A41C877855008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.m */; };
-		7C70EB6B1C877856008A0C07 /* NSDate+MSSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A51C877855008A0C07 /* NSDate+MSSerialization.h */; };
+		7C70EB6B1C877856008A0C07 /* NSDate+MSSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A51C877855008A0C07 /* NSDate+MSSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB6C1C877856008A0C07 /* NSDate+MSSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8A61C877855008A0C07 /* NSDate+MSSerialization.m */; };
-		7C70EB6D1C877856008A0C07 /* NSJSONSerialization+ResponseHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A71C877855008A0C07 /* NSJSONSerialization+ResponseHelper.h */; };
+		7C70EB6D1C877856008A0C07 /* NSJSONSerialization+ResponseHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70E8A71C877855008A0C07 /* NSJSONSerialization+ResponseHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EB6E1C877856008A0C07 /* NSJSONSerialization+ResponseHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C70E8A81C877855008A0C07 /* NSJSONSerialization+ResponseHelper.m */; };
 		7C70EDF61C8E1D26008A0C07 /* MSGraphCoreSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70EDF51C8E1D26008A0C07 /* MSGraphCoreSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C70EE4E1C90DE73008A0C07 /* MSBlockAuthenticationProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C70EE4C1C90DE73008A0C07 /* MSBlockAuthenticationProvider.h */; };
@@ -2672,6 +2672,23 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C70EB5B1C877856008A0C07 /* MSRequestOptionsBuilder.h in Headers */,
+				7C70EB321C877856008A0C07 /* MSConstants.h in Headers */,
+				7C70EB611C877856008A0C07 /* MSError.h in Headers */,
+				7C4C198B1CAAF1E000FBDFFD /* MSGraphClientConfiguration.h in Headers */,
+				7C70EB6D1C877856008A0C07 /* NSJSONSerialization+ResponseHelper.h in Headers */,
+				7C70EB6B1C877856008A0C07 /* NSDate+MSSerialization.h in Headers */,
+				7C4C19B61CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.h in Headers */,
+				7C70EB691C877856008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.h in Headers */,
+				7C4C19BE1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.h in Headers */,
+				7C70EB671C877856008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.h in Headers */,
+				7C70EB651C877856008A0C07 /* MSGraphClient+Base.h in Headers */,
+				7C4C199F1CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.h in Headers */,
+				7C4C19A11CAAF77B00FBDFFD /* MSURLSessionDataTask.h in Headers */,
+				7C4C19AA1CAAF77B00FBDFFD /* MSURLSessionUploadTask.h in Headers */,
+				7C4C19A31CAAF77B00FBDFFD /* MSURLSessionDownloadTask.h in Headers */,
+				7C6F5BBF1CB33B8B00EDF1C9 /* MSGraphODataEntities.h in Headers */,
+				7C6F57BB1CB33B8100EDF1C9 /* MSGraphModels.h in Headers */,
 				7C70EDF61C8E1D26008A0C07 /* MSGraphCoreSDK.h in Headers */,
 				7C70E8531C877763008A0C07 /* MSURLSessionManager.h in Headers */,
 				7C6F5BEE1CB33B8B00EDF1C9 /* MSGraphThumbnailRequestBuilder.h in Headers */,
@@ -2727,7 +2744,6 @@
 				7C6F5C4E1CB33B8B00EDF1C9 /* MSGraphUserRegisteredDevicesCollectionWithReferencesRequestBuilder.h in Headers */,
 				7C6F57731CB33B8100EDF1C9 /* MSGraphConversationThread.h in Headers */,
 				7C4C19B01CAAF90300FBDFFD /* MSGraphClient+DefaultConfiguration.h in Headers */,
-				7C70EB321C877856008A0C07 /* MSConstants.h in Headers */,
 				7C6F5B271CB33B8B00EDF1C9 /* MSGraphGraphServiceOrganizationCollectionRequest.h in Headers */,
 				7C6F5C281CB33B8B00EDF1C9 /* MSGraphUserMemberOfCollectionReferencesRequest.h in Headers */,
 				7C6F5C581CB33B8B00EDF1C9 /* MSGraphUserSendMailRequest.h in Headers */,
@@ -2752,7 +2768,6 @@
 				7C6F57D61CB33B8100EDF1C9 /* MSGraphRecurrencePattern.h in Headers */,
 				7C6F5BDE1CB33B8B00EDF1C9 /* MSGraphProfilePhotoRequestBuilder.h in Headers */,
 				7C70E84F1C877763008A0C07 /* MSLogger.h in Headers */,
-				7C4C19A11CAAF77B00FBDFFD /* MSURLSessionDataTask.h in Headers */,
 				7C6F578D1CB33B8100EDF1C9 /* MSGraphEvent.h in Headers */,
 				7C6F57A51CB33B8100EDF1C9 /* MSGraphIdentitySet.h in Headers */,
 				7C6F57A91CB33B8100EDF1C9 /* MSGraphImportance.h in Headers */,
@@ -2777,15 +2792,12 @@
 				7C6F5B571CB33B8B00EDF1C9 /* MSGraphGroupOwnersCollectionReferencesRequest.h in Headers */,
 				7C6F5C101CB33B8B00EDF1C9 /* MSGraphUserCreatedObjectsCollectionReferencesRequest.h in Headers */,
 				7C6F5B131CB33B8B00EDF1C9 /* MSGraphGraphServiceDirectoryObjectsCollectionRequest.h in Headers */,
-				7C70EB6B1C877856008A0C07 /* NSDate+MSSerialization.h in Headers */,
 				7C6F5B9B1CB33B8B00EDF1C9 /* MSGraphMessageCreateForwardRequest.h in Headers */,
 				7C6F5BFC1CB33B8B00EDF1C9 /* MSGraphUserCalendarsCollectionRequest.h in Headers */,
 				7C70EE4E1C90DE73008A0C07 /* MSBlockAuthenticationProvider.h in Headers */,
 				7C6F5AA31CB33B8B00EDF1C9 /* MSGraphDirectoryRoleMembersCollectionWithReferencesRequestBuilder.h in Headers */,
-				7C70EB671C877856008A0C07 /* MSGraphDriveItemRequestBuilder+ItemByPath.h in Headers */,
 				7C6F5B511CB33B8B00EDF1C9 /* MSGraphGroupMembersCollectionReferencesRequestBuilder.h in Headers */,
 				7C6F5BD41CB33B8B00EDF1C9 /* MSGraphPostReplyRequest.h in Headers */,
-				7C70EB691C877856008A0C07 /* MSGraphThumbnailSet+CustomThumbnail.h in Headers */,
 				7C6F58021CB33B8100EDF1C9 /* MSGraphVideo.h in Headers */,
 				7C6F5BB71CB33B8B00EDF1C9 /* MSGraphMessageRequest.h in Headers */,
 				7C6F5C0C1CB33B8B00EDF1C9 /* MSGraphUserContactsCollectionRequest.h in Headers */,
@@ -2804,7 +2816,6 @@
 				7C6F5BE41CB33B8B00EDF1C9 /* MSGraphReferenceAttachmentRequestBuilder.h in Headers */,
 				7C6F57611CB33B8100EDF1C9 /* MSGraphAttendeeType.h in Headers */,
 				7C6F5B811CB33B8B00EDF1C9 /* MSGraphMailFolderChildFoldersCollectionRequestBuilder.h in Headers */,
-				7C4C199F1CAAF77B00FBDFFD /* MSAsyncURLSessionDataTask.h in Headers */,
 				7C6F5AE91CB33B8B00EDF1C9 /* MSGraphEventAcceptRequestBuilder.h in Headers */,
 				7C6F5BF21CB33B8B00EDF1C9 /* MSGraphThumbnailSetRequestBuilder.h in Headers */,
 				7C6F5B1D1CB33B8B00EDF1C9 /* MSGraphGraphServiceDirectoryRoleTemplatesCollectionRequestBuilder.h in Headers */,
@@ -2840,7 +2851,6 @@
 				7C6F5B431CB33B8B00EDF1C9 /* MSGraphGroupEventsCollectionRequest.h in Headers */,
 				7C6F5C321CB33B8B00EDF1C9 /* MSGraphUserMessagesCollectionRequestBuilder.h in Headers */,
 				7C6F5A7D1CB33B8B00EDF1C9 /* MSGraphDeviceRegisteredUsersCollectionWithReferencesRequest.h in Headers */,
-				7C4C198B1CAAF1E000FBDFFD /* MSGraphClientConfiguration.h in Headers */,
 				7C6F57D21CB33B8100EDF1C9 /* MSGraphQuota.h in Headers */,
 				7C6F5A631CB33B8B00EDF1C9 /* MSGraphConversationThreadPostsCollectionRequestBuilder.h in Headers */,
 				7C6F5B2B1CB33B8B00EDF1C9 /* MSGraphGraphServiceSubscribedSkusCollectionRequest.h in Headers */,
@@ -2893,7 +2903,6 @@
 				7C6F5C201CB33B8B00EDF1C9 /* MSGraphUserEventsCollectionRequest.h in Headers */,
 				7C6F57651CB33B8100EDF1C9 /* MSGraphBodyType.h in Headers */,
 				7C6F5C381CB33B8B00EDF1C9 /* MSGraphUserOwnedDevicesCollectionWithReferencesRequest.h in Headers */,
-				7C6F57BB1CB33B8100EDF1C9 /* MSGraphModels.h in Headers */,
 				7C6F579F1CB33B8100EDF1C9 /* MSGraphGroup.h in Headers */,
 				7C6F5C3E1CB33B8B00EDF1C9 /* MSGraphUserOwnedObjectsCollectionReferencesRequestBuilder.h in Headers */,
 				7C6F5C1C1CB33B8B00EDF1C9 /* MSGraphUserDirectReportsCollectionWithReferencesRequest.h in Headers */,
@@ -2922,7 +2931,6 @@
 				7C6F5B071CB33B8B00EDF1C9 /* MSGraphEventTentativelyAcceptRequest.h in Headers */,
 				7C6F578B1CB33B8100EDF1C9 /* MSGraphEntity.h in Headers */,
 				7C6F57891CB33B8100EDF1C9 /* MSGraphEmailAddress.h in Headers */,
-				7C70EB611C877856008A0C07 /* MSError.h in Headers */,
 				7C6F5AF71CB33B8B00EDF1C9 /* MSGraphEventInstancesCollectionRequest.h in Headers */,
 				7C6F5B491CB33B8B00EDF1C9 /* MSGraphGroupMemberOfCollectionReferencesRequestBuilder.h in Headers */,
 				7C6F5B591CB33B8B00EDF1C9 /* MSGraphGroupOwnersCollectionReferencesRequestBuilder.h in Headers */,
@@ -2945,7 +2953,6 @@
 				7C6F5A8F1CB33B8B00EDF1C9 /* MSGraphDirectoryObjectGetMemberObjectsRequestBuilder.h in Headers */,
 				7C6F5B231CB33B8B00EDF1C9 /* MSGraphGraphServiceGroupsCollectionRequest.h in Headers */,
 				7C6F5BFE1CB33B8B00EDF1C9 /* MSGraphUserCalendarsCollectionRequestBuilder.h in Headers */,
-				7C4C19BE1CAB1FEC00FBDFFD /* MSGraphDriveSpecialCollectionRequestBuilder+KnownFolders.h in Headers */,
 				7C6F5BBB1CB33B8B00EDF1C9 /* MSGraphMessageSendRequest.h in Headers */,
 				7C6F5AB91CB33B8B00EDF1C9 /* MSGraphDriveItemCreateLinkRequestBuilder.h in Headers */,
 				7C6F57E81CB33B8100EDF1C9 /* MSGraphSearchResult.h in Headers */,
@@ -2967,7 +2974,6 @@
 				7C6F5C1A1CB33B8B00EDF1C9 /* MSGraphUserDirectReportsCollectionReferencesRequestBuilder.h in Headers */,
 				7C6F5BCE1CB33B8B00EDF1C9 /* MSGraphPostAttachmentsCollectionRequestBuilder.h in Headers */,
 				7C6F5C481CB33B8B00EDF1C9 /* MSGraphUserRegisteredDevicesCollectionReferencesRequest.h in Headers */,
-				7C6F5BBF1CB33B8B00EDF1C9 /* MSGraphODataEntities.h in Headers */,
 				7C6F5C541CB33B8B00EDF1C9 /* MSGraphUserRequest.h in Headers */,
 				7C6F5A951CB33B8B00EDF1C9 /* MSGraphDirectoryObjectRequest.h in Headers */,
 				7C6F57751CB33B8100EDF1C9 /* MSGraphDateTimeTimeZone.h in Headers */,
@@ -2985,7 +2991,6 @@
 				7C6F5B911CB33B8B00EDF1C9 /* MSGraphMailFolderRequestBuilder.h in Headers */,
 				7C6F5AC71CB33B8B00EDF1C9 /* MSGraphDriveItemsCollectionRequest.h in Headers */,
 				7C6F57771CB33B8100EDF1C9 /* MSGraphDayOfWeek.h in Headers */,
-				7C70EB6D1C877856008A0C07 /* NSJSONSerialization+ResponseHelper.h in Headers */,
 				7C6F5A651CB33B8B00EDF1C9 /* MSGraphConversationThreadReplyRequest.h in Headers */,
 				7C6F57591CB33B8100EDF1C9 /* MSGraphAssignedLicense.h in Headers */,
 				7C6F5A431CB33B8B00EDF1C9 /* MSGraphCalendarGroupRequest.h in Headers */,
@@ -2997,7 +3002,6 @@
 				7C6F5A611CB33B8B00EDF1C9 /* MSGraphConversationThreadPostsCollectionRequest.h in Headers */,
 				7C70EB591C877856008A0C07 /* MSRequestOptions.h in Headers */,
 				7C6F5BB31CB33B8B00EDF1C9 /* MSGraphMessageReplyRequest.h in Headers */,
-				7C70EB5B1C877856008A0C07 /* MSRequestOptionsBuilder.h in Headers */,
 				7C6F5C261CB33B8B00EDF1C9 /* MSGraphUserMailFoldersCollectionRequestBuilder.h in Headers */,
 				7C70E8411C8776E5008A0C07 /* MSHttpProvider.h in Headers */,
 				7C6F5AA71CB33B8B00EDF1C9 /* MSGraphDirectoryRoleRequestBuilder.h in Headers */,
@@ -3029,14 +3033,12 @@
 				7C6F5BB91CB33B8B00EDF1C9 /* MSGraphMessageRequestBuilder.h in Headers */,
 				7C6F577F1CB33B8100EDF1C9 /* MSGraphDirectoryRole.h in Headers */,
 				7C6F5BEC1CB33B8B00EDF1C9 /* MSGraphThumbnailRequest.h in Headers */,
-				7C4C19AA1CAAF77B00FBDFFD /* MSURLSessionUploadTask.h in Headers */,
 				7C6F5BF61CB33B8B00EDF1C9 /* MSGraphUserAssignLicenseRequestBuilder.h in Headers */,
 				7C6F57EA1CB33B8100EDF1C9 /* MSGraphSensitivity.h in Headers */,
 				7C6F57991CB33B8100EDF1C9 /* MSGraphFolder.h in Headers */,
 				7C6F5B4F1CB33B8B00EDF1C9 /* MSGraphGroupMembersCollectionReferencesRequest.h in Headers */,
 				7C6F57B31CB33B8100EDF1C9 /* MSGraphLocation.h in Headers */,
 				7C6F5ADD1CB33B8B00EDF1C9 /* MSGraphDriveSharedWithMeRequestBuilder.h in Headers */,
-				7C70EB651C877856008A0C07 /* MSGraphClient+Base.h in Headers */,
 				7C6F5ACF1CB33B8B00EDF1C9 /* MSGraphDriveItemThumbnailsCollectionRequest.h in Headers */,
 				7C6F57FA1CB33B8100EDF1C9 /* MSGraphThumbnailSet.h in Headers */,
 				7C6F5B1F1CB33B8B00EDF1C9 /* MSGraphGraphServiceDrivesCollectionRequest.h in Headers */,
@@ -3045,14 +3047,12 @@
 				7C6F5A5D1CB33B8B00EDF1C9 /* MSGraphConversationRequest.h in Headers */,
 				7C6F57C41CB33B8100EDF1C9 /* MSGraphPatternedRecurrence.h in Headers */,
 				7C6F5C221CB33B8B00EDF1C9 /* MSGraphUserEventsCollectionRequestBuilder.h in Headers */,
-				7C4C19A31CAAF77B00FBDFFD /* MSURLSessionDownloadTask.h in Headers */,
 				7C6F5A711CB33B8B00EDF1C9 /* MSGraphDeviceRegisteredOwnersCollectionReferencesRequest.h in Headers */,
 				7C6F5B331CB33B8B00EDF1C9 /* MSGraphGroupAcceptedSendersCollectionRequest.h in Headers */,
 				7C6F5A3F1CB33B8B00EDF1C9 /* MSGraphCalendarGroupCalendarsCollectionRequest.h in Headers */,
 				7C6F5C121CB33B8B00EDF1C9 /* MSGraphUserCreatedObjectsCollectionReferencesRequestBuilder.h in Headers */,
 				7C6F5C021CB33B8B00EDF1C9 /* MSGraphUserCalendarViewCollectionRequestBuilder.h in Headers */,
 				7C6F57B51CB33B8100EDF1C9 /* MSGraphMailFolder.h in Headers */,
-				7C4C19B61CAB17FE00FBDFFD /* MSGraphUserMailFoldersCollectionRequestBuilder+KnownFolders.h in Headers */,
 				7C6F5B371CB33B8B00EDF1C9 /* MSGraphGroupAddFavoriteRequest.h in Headers */,
 				7C6F5B6F1CB33B8B00EDF1C9 /* MSGraphGroupSubscribeByMailRequest.h in Headers */,
 				7C6F5C041CB33B8B00EDF1C9 /* MSGraphUserChangePasswordRequest.h in Headers */,
