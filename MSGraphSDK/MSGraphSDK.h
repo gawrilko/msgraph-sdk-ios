@@ -12,5 +12,6 @@
 #import "NSError+MSGraphSDK.h"
 #import "MSGraphClient+DefaultConfiguration.h"
 #import "MSGraphClientConfiguration+DefaultConfiguration.h"
+#import "MSBlockAuthenticationProvider.h"
 
 #endif
